@@ -1,0 +1,4 @@
+1. 1+2+3+4......+1997+1998+1999+2000=?
+2. Jumlahkan bilangan pertama dan terakhir (1+2000 = 2001)
+3. Kalikan hasil pada langkah 1 dengan (n/2), n = 2000; maka 2001*(2000/2) = 2001*1000 = 2001000
+4. Jadi hasilnya adalah 2001000
